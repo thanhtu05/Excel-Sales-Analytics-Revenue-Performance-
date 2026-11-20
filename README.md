@@ -1,6 +1,7 @@
 # Excel Sales Analytics & Revenue Performance | VTI Electronics
 
 **November 2026**
+<img width="1031" height="440" alt="image" src="https://github.com/user-attachments/assets/55f005f9-95b6-4cc7-ac16-d3ef495d99a0" />
 
 ## 📌 Project Overview
 
