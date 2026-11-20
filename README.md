@@ -1,5 +1,3 @@
-# Excel-Sales-Analytics-Revenue-Performance-
-
 # Excel Sales Analytics & Revenue Performance | VTI Electronics
 
 **November 2026**
